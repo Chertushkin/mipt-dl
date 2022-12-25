@@ -4,3 +4,5 @@ simpsons
 *.pkl
 *.zip
 PH2Dataset
+lfw-deepfunneled
+lfw_attributes.txt
