@@ -9,3 +9,6 @@ lfw_attributes.txt
 mnist_data
 
 week5/flickr_faces/
+week5/fake_images/
+generator.pt
+discriminator.pt
