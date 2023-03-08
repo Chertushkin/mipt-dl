@@ -7,7 +7,7 @@ PH2Dataset
 lfw-deepfunneled
 lfw_attributes.txt
 mnist_data
-
+*.pt
 week5/flickr_faces/
 week5/fake_images/
 generator.pt
